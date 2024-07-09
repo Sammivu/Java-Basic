@@ -1,0 +1,2 @@
+package week_6_functional_programming.class_activity_2a_lambda_with_parameter;public class WithLambdaExpression {
+}

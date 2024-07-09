@@ -1,0 +1,2 @@
+package week_6_functional_programming.class_activity_7a_functional_interface;public interface SaySomething {
+}

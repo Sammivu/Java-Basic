@@ -1,0 +1,2 @@
+package week_6_functional_programming.class_activity_1a_without_lambda;public class NotLambdaExpression {
+}

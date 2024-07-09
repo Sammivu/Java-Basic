@@ -1,0 +1,2 @@
+package week_6_functional_programming.class_exercise_3_filtering_even_numbers;public class Main {
+}

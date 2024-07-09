@@ -1,0 +1,2 @@
+package week_6_functional_programming.class_activity_3a_multiple_parameter;public interface Addable {
+}
